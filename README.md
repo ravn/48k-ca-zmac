@@ -8,10 +8,16 @@ I found when working on disassembling some old Z80 PROM code that the output Cla
 
 ### MacOS
 
-On MacOS you need XCode including the command line tools.
+On MacOS you need XCode from the App store, possibly also including the command line tools.
 
-### Ubuntu
+### Linux 
 
 You need a full compiler tool chain, including gcc and bison.
+
+For Ubuntu:
+
+    apt install build-essential
+
+
 
 /ravn 2026-02-08
